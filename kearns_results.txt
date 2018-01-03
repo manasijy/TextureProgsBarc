@@ -1,0 +1,27 @@
+File Name    Fa  Ft   Fr
+A1      0.357    0.309    0.333
+File Name    Fa  Ft   Fr
+B1      0.310    0.433    0.257
+File Name    Fa  Ft   Fr
+B2      0.394    0.280    0.326
+File Name    Fa  Ft   Fr
+A1      0.294    0.263    0.444
+File Name    Fa  Ft   Fr
+B1      0.262    0.359    0.379
+File Name    Fa  Ft   Fr
+B2      0.341    0.239    0.420
+File Name    Fa  Ft   Fr
+A1      0.356    0.308    0.336
+File Name    Fa  Ft   Fr
+B1      0.310    0.433    0.257
+File Name    Fa  Ft   Fr
+B2      0.394    0.280    0.326
+File Name    Fa  Ft   Fr
+File Name    Fa  Ft   Fr
+File Name    Fa  Ft   Fr
+File Name    Fa  Ft   Fr
+File Name    Fa  Ft   Fr
+File Name    Fa  Ft   Fr
+CR-1700-10_try      0.172    0.190    0.638
+File Name    F_x  F_y   F_z
+CR-1700-10_try      0.174    0.193    0.633
